@@ -18,3 +18,4 @@
 *.png -crlf -diff -merge
 *.tif -crlf -diff -merge
 *.bmp -crlf -diff -merge
+*.mp4 -crlf -diff -merge
